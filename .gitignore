@@ -1,3 +1,11 @@
-/target
-**/*.rs.bk
-Cargo.lock
+.DS_Store
+.env
+.env.*
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
